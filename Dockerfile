@@ -1,4 +1,4 @@
-FROM python:3.8.2-alpine
+FROM python:3.8-alpine
 MAINTAINER Al Ardosa
 
 ENV PYTHONUNBUFFERED 1
